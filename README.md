@@ -28,3 +28,9 @@ The 3D model was created using Onshape.
 4. The top cover is placed on top to protect the parts.
 
 ---
+![Robotic dog Exploded view]( <img width="519" height="457" alt="6012478770570267858" src="https://github.com/user-attachments/assets/857e58b3-a41b-4006-8d54-85e3024945ac" />)
+
+
+
+
+[view 3D CAD model on Onshape](https://cad.onshape.com/documents/a4fc025d0909f0b4d9bb4370/w/0bacf8e814ecc0d0aae6e2de/e/01eab7f3997e73c7ae719b09?explodedView=MJphXclMzHrmQkTd0&renderMode=0&rightPanel=explodedViewPanel&uiState=6a6e34e8b0484ecb03aba21d)
